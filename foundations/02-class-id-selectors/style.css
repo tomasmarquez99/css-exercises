@@ -1,0 +1,22 @@
+.odd {
+    background-color: pink;
+    background-blend-mode: lighten;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#one {
+color: rgb(0, 0, 266);
+font-size: 36px;
+
+}
+
+.odd.cooler {
+    font-size: 24px;
+}
+
+#four {
+    background-color: green;
+    background-blend-mode: lighten;
+    font-size: 24px;
+    font-weight: bold;
+}
